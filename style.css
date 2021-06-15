@@ -1,0 +1,36 @@
+.img {
+    width: 600px;
+    height: 300px;
+    margin-right: 20px;
+}
+.subs1{
+    font-size: 25px;
+    
+    margin-left:120px;
+}
+body{
+    text-align: center;
+    background:linear-gradient(lightseagreen 40%, darkblue 60%);
+}
+.subs2{
+    font-size: 25px;
+    margin-right: 20px;
+}
+.img2{
+     width: 600px;
+    height: 300px;
+    margin-right: 20px;
+}
+.subs3{
+    font-size: 25px;
+    margin-right: 200px;
+    color: aliceblue;
+}
+.subs4{
+     font-size: 25px;
+    color: aliceblue;
+    margin-left:50px;
+}
+h1{
+    color: black;
+}
